@@ -10,8 +10,8 @@
       <item>
         <title>Python 강좌(1) - Python 기본</title>
         
-          <description>&lt;p&gt;==파이썬==
-::파이썬::
+          <description>&lt;p&gt;==파이썬==&lt;br /&gt;
+::파이썬::&lt;br /&gt;
 highlight::&lt;/p&gt;
 </description>
         
@@ -28,6 +28,7 @@ highlight::&lt;/p&gt;
         
           <description>&lt;h1 id=&quot;내가-힐의-계량경제학을-정리할-것이다&quot;&gt;내가 힐의 계량경제학을 정리할 것이다&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;important&lt;/strong&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 19 Dec 2021 01:40:00 +0900</pubDate>

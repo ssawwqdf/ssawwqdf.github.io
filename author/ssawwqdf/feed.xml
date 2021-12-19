@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://ssawwqdf.github.io/author/ssawwqdf/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://ssawwqdf.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-12-19T09:46:45+09:00</updated>
+  <updated>2021-12-19T11:20:30+09:00</updated>
   <id>https://ssawwqdf.github.io/author/ssawwqdf/feed.xml</id>
 
   
@@ -38,7 +38,10 @@
       <updated>2021-12-19T01:40:00+09:00</updated>
       <id>https://ssawwqdf.github.io/hill%20econometrics</id>
       <content type="html" xml:base="https://ssawwqdf.github.io/hill-econometrics">&lt;h1 id=&quot;내가-힐의-계량경제학을-정리할-것이다&quot;&gt;내가 힐의 계량경제학을 정리할 것이다&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;important&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;important&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;메롱메롱&lt;br /&gt;
+안녕하세요? 반갑습니다^^&lt;/p&gt;</content>
 
       
       
@@ -72,8 +75,8 @@
       <published>2021-12-19T01:40:00+09:00</published>
       <updated>2021-12-19T01:40:00+09:00</updated>
       <id>https://ssawwqdf.github.io/Pythonbasic</id>
-      <content type="html" xml:base="https://ssawwqdf.github.io/Pythonbasic">&lt;p&gt;==파이썬==
-::파이썬::
+      <content type="html" xml:base="https://ssawwqdf.github.io/Pythonbasic">&lt;p&gt;==파이썬==&lt;br /&gt;
+::파이썬::&lt;br /&gt;
 highlight::&lt;/p&gt;</content>
 
       
@@ -126,7 +129,7 @@ highlight::&lt;/p&gt;</content>
       
 
       
-        <category term="/economics" />
+        <category term="economics" />
       
 
       
